@@ -1,2 +1,2 @@
 # TiKaPe project.
-This is the project for the course TiKaPe at University of Helsinki. The full python code for all the exercises is available here.
+This repository contains my project for the TiKaPe course at the University of Helsinki. It includes the complete Python code for all exercises. Each script is a standalone program that executes the corresponding SQL query. The database must be downloaded separately.
